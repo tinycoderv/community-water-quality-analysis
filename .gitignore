@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Environment variables and secrets
+.env
